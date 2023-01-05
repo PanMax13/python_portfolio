@@ -1,4 +1,4 @@
-# this code dowload and write text of youtube  video.
+# this code dowload and write text of youtube  video. https://www.youtube.com/watch?v=pTCxXZh6VyE - link from example
 
 from pytube import YouTube as yt
 import sys, os
